@@ -1,5 +1,5 @@
 # StockMarketUtil
 
-The <B>getMaxProfit</B> method of <B>StockBestPrice</B> class accepts the list of stock prices and return the best profit that can be gained. The algorith used in retrieveing the best profit is similar to Selection Sort algorithm, and it has complexity of <B>O(N2)</B>.
+The <B>getMaxProfit</B> method of <B>StockBestPrice</B> class accepts the list of stock prices and returns the best profit that can be gained. The algorithm used in retrieving the best profit is similar to the Selection Sort algorithm, and it has the complexity of <B>O(N2)</B>.
 
-The Junit class <B>StockBestPriceTest</B> has 5 test cases added to verify the Solution.
+We also have <B>JUnit StockBestPriceTest</B> verify the solution.
